@@ -46,3 +46,38 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+.avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #f2f2f2;
+}
+
+.post-actions .fa {
+    font-size: 20px;
+    cursor: pointer;
+    color: #555;
+}
+
+.post-actions .fa:hover {
+    color: #000;
+}
+
+.submit-btn {
+    margin-top: 10px;
+    text-align: right;
+}
+
+.post-card {
+    margin-bottom: 1.5rem;
+    padding: 1.5rem;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+}
+
+.popular-tags {
+    background-color: #f1f1f1;
+    padding: 1rem;
+    border-radius: 8px;
+}

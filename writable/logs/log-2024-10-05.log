@@ -1,0 +1,351 @@
+CRITICAL - 2024-10-05 14:44:31 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/user-avatar.png"
+[Method: GET, Route: pages/id/user-avatar.png]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/user-avatar.png')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/user-avatar.png', [], true)
+ 3 APPPATH\Controllers\Pages.php(17): view('pages/user-avatar.png')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->id('user-avatar.png')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Website-Divisi-Kewirausahaan-HIMATEKKOM-\\public\\index.php')
+CRITICAL - 2024-10-05 14:46:01 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/user-avatar.png"
+[Method: GET, Route: pages/id/user-avatar.png]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/user-avatar.png')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/user-avatar.png', [], true)
+ 3 APPPATH\Controllers\Pages.php(17): view('pages/user-avatar.png')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->id('user-avatar.png')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Website-Divisi-Kewirausahaan-HIMATEKKOM-\\public\\index.php')
+CRITICAL - 2024-10-05 14:48:17 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/user-avatar.png"
+[Method: GET, Route: pages/id/user-avatar.png]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/user-avatar.png')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/user-avatar.png', [], true)
+ 3 APPPATH\Controllers\Pages.php(17): view('pages/user-avatar.png')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->id('user-avatar.png')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Website-Divisi-Kewirausahaan-HIMATEKKOM-\\public\\index.php')
+CRITICAL - 2024-10-05 14:48:53 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/user-avatar.png"
+[Method: GET, Route: pages/id/user-avatar.png]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/user-avatar.png')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/user-avatar.png', [], true)
+ 3 APPPATH\Controllers\Pages.php(17): view('pages/user-avatar.png')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->id('user-avatar.png')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Website-Divisi-Kewirausahaan-HIMATEKKOM-\\public\\index.php')
+CRITICAL - 2024-10-05 14:49:53 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/user-avatar.png"
+[Method: GET, Route: pages/id/user-avatar.png]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/user-avatar.png')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/user-avatar.png', [], true)
+ 3 APPPATH\Controllers\Pages.php(17): view('pages/user-avatar.png')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->id('user-avatar.png')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Website-Divisi-Kewirausahaan-HIMATEKKOM-\\public\\index.php')
+CRITICAL - 2024-10-05 14:50:06 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/user-avatar.png"
+[Method: GET, Route: pages/id/user-avatar.png]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/user-avatar.png')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/user-avatar.png', [], true)
+ 3 APPPATH\Controllers\Pages.php(17): view('pages/user-avatar.png')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->id('user-avatar.png')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Website-Divisi-Kewirausahaan-HIMATEKKOM-\\public\\index.php')
+CRITICAL - 2024-10-05 14:50:36 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/user-avatar.png"
+[Method: GET, Route: pages/id/user-avatar.png]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/user-avatar.png')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/user-avatar.png', [], true)
+ 3 APPPATH\Controllers\Pages.php(17): view('pages/user-avatar.png')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->id('user-avatar.png')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Website-Divisi-Kewirausahaan-HIMATEKKOM-\\public\\index.php')
+CRITICAL - 2024-10-05 14:51:37 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/user-avatar.png"
+[Method: GET, Route: pages/id/user-avatar.png]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/user-avatar.png')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/user-avatar.png', [], true)
+ 3 APPPATH\Controllers\Pages.php(17): view('pages/user-avatar.png')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->id('user-avatar.png')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Website-Divisi-Kewirausahaan-HIMATEKKOM-\\public\\index.php')
+CRITICAL - 2024-10-05 14:53:33 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/user-avatar.png"
+[Method: GET, Route: pages/id/user-avatar.png]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/user-avatar.png')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/user-avatar.png', [], true)
+ 3 APPPATH\Controllers\Pages.php(17): view('pages/user-avatar.png')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->id('user-avatar.png')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Website-Divisi-Kewirausahaan-HIMATEKKOM-\\public\\index.php')
+CRITICAL - 2024-10-05 14:54:41 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/user-avatar.png"
+[Method: GET, Route: pages/id/user-avatar.png]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/user-avatar.png')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/user-avatar.png', [], true)
+ 3 APPPATH\Controllers\Pages.php(17): view('pages/user-avatar.png')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->id('user-avatar.png')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Website-Divisi-Kewirausahaan-HIMATEKKOM-\\public\\index.php')
+CRITICAL - 2024-10-05 14:54:45 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/user-avatar.png"
+[Method: GET, Route: pages/id/user-avatar.png]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/user-avatar.png')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/user-avatar.png', [], true)
+ 3 APPPATH\Controllers\Pages.php(17): view('pages/user-avatar.png')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->id('user-avatar.png')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Website-Divisi-Kewirausahaan-HIMATEKKOM-\\public\\index.php')
+CRITICAL - 2024-10-05 14:56:48 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/user-avatar.png"
+[Method: GET, Route: pages/id/user-avatar.png]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/user-avatar.png')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/user-avatar.png', [], true)
+ 3 APPPATH\Controllers\Pages.php(17): view('pages/user-avatar.png')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->id('user-avatar.png')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Website-Divisi-Kewirausahaan-HIMATEKKOM-\\public\\index.php')
+CRITICAL - 2024-10-05 14:56:55 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/user-avatar.png"
+[Method: GET, Route: pages/id/user-avatar.png]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/user-avatar.png')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/user-avatar.png', [], true)
+ 3 APPPATH\Controllers\Pages.php(17): view('pages/user-avatar.png')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->id('user-avatar.png')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Website-Divisi-Kewirausahaan-HIMATEKKOM-\\public\\index.php')
+CRITICAL - 2024-10-05 15:04:01 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/user-avatar.png"
+[Method: GET, Route: pages/id/user-avatar.png]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/user-avatar.png')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/user-avatar.png', [], true)
+ 3 APPPATH\Controllers\Pages.php(17): view('pages/user-avatar.png')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->id('user-avatar.png')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Website-Divisi-Kewirausahaan-HIMATEKKOM-\\public\\index.php')
+CRITICAL - 2024-10-05 15:04:23 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/user-avatar.png"
+[Method: GET, Route: pages/id/user-avatar.png]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/user-avatar.png')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/user-avatar.png', [], true)
+ 3 APPPATH\Controllers\Pages.php(17): view('pages/user-avatar.png')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->id('user-avatar.png')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Website-Divisi-Kewirausahaan-HIMATEKKOM-\\public\\index.php')
+CRITICAL - 2024-10-05 15:04:40 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/user-avatar.png"
+[Method: GET, Route: pages/id/user-avatar.png]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/user-avatar.png')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/user-avatar.png', [], true)
+ 3 APPPATH\Controllers\Pages.php(17): view('pages/user-avatar.png')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->id('user-avatar.png')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Website-Divisi-Kewirausahaan-HIMATEKKOM-\\public\\index.php')
+CRITICAL - 2024-10-05 15:04:52 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/user-avatar.png"
+[Method: GET, Route: pages/id/user-avatar.png]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/user-avatar.png')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/user-avatar.png', [], true)
+ 3 APPPATH\Controllers\Pages.php(17): view('pages/user-avatar.png')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->id('user-avatar.png')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Website-Divisi-Kewirausahaan-HIMATEKKOM-\\public\\index.php')
+CRITICAL - 2024-10-05 15:05:08 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/user-avatar.png"
+[Method: GET, Route: pages/id/user-avatar.png]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/user-avatar.png')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/user-avatar.png', [], true)
+ 3 APPPATH\Controllers\Pages.php(17): view('pages/user-avatar.png')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->id('user-avatar.png')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Website-Divisi-Kewirausahaan-HIMATEKKOM-\\public\\index.php')
+CRITICAL - 2024-10-05 15:05:49 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/user-avatar.png"
+[Method: GET, Route: pages/id/user-avatar.png]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/user-avatar.png')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/user-avatar.png', [], true)
+ 3 APPPATH\Controllers\Pages.php(17): view('pages/user-avatar.png')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->id('user-avatar.png')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Website-Divisi-Kewirausahaan-HIMATEKKOM-\\public\\index.php')
+CRITICAL - 2024-10-05 15:06:03 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/user-avatar.png"
+[Method: GET, Route: pages/id/user-avatar.png]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/user-avatar.png')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/user-avatar.png', [], true)
+ 3 APPPATH\Controllers\Pages.php(17): view('pages/user-avatar.png')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->id('user-avatar.png')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Website-Divisi-Kewirausahaan-HIMATEKKOM-\\public\\index.php')
+CRITICAL - 2024-10-05 15:07:38 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/user-avatar.png"
+[Method: GET, Route: pages/id/user-avatar.png]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/user-avatar.png')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/user-avatar.png', [], true)
+ 3 APPPATH\Controllers\Pages.php(17): view('pages/user-avatar.png')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->id('user-avatar.png')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Website-Divisi-Kewirausahaan-HIMATEKKOM-\\public\\index.php')
+CRITICAL - 2024-10-05 15:07:55 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/user-avatar.png"
+[Method: GET, Route: pages/id/user-avatar.png]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/user-avatar.png')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/user-avatar.png', [], true)
+ 3 APPPATH\Controllers\Pages.php(17): view('pages/user-avatar.png')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->id('user-avatar.png')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Website-Divisi-Kewirausahaan-HIMATEKKOM-\\public\\index.php')
+CRITICAL - 2024-10-05 15:09:51 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/user-avatar.png"
+[Method: GET, Route: pages/id/user-avatar.png]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/user-avatar.png')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/user-avatar.png', [], true)
+ 3 APPPATH\Controllers\Pages.php(17): view('pages/user-avatar.png')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->id('user-avatar.png')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Website-Divisi-Kewirausahaan-HIMATEKKOM-\\public\\index.php')
+CRITICAL - 2024-10-05 15:11:13 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/user-avatar.png"
+[Method: GET, Route: pages/id/user-avatar.png]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/user-avatar.png')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/user-avatar.png', [], true)
+ 3 APPPATH\Controllers\Pages.php(17): view('pages/user-avatar.png')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->id('user-avatar.png')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Website-Divisi-Kewirausahaan-HIMATEKKOM-\\public\\index.php')
+CRITICAL - 2024-10-05 15:11:33 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/user-avatar.png"
+[Method: GET, Route: pages/id/user-avatar.png]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/user-avatar.png')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/user-avatar.png', [], true)
+ 3 APPPATH\Controllers\Pages.php(17): view('pages/user-avatar.png')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->id('user-avatar.png')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Website-Divisi-Kewirausahaan-HIMATEKKOM-\\public\\index.php')
+CRITICAL - 2024-10-05 15:11:38 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/user-avatar.png"
+[Method: GET, Route: pages/id/user-avatar.png]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/user-avatar.png')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/user-avatar.png', [], true)
+ 3 APPPATH\Controllers\Pages.php(17): view('pages/user-avatar.png')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->id('user-avatar.png')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Website-Divisi-Kewirausahaan-HIMATEKKOM-\\public\\index.php')
+CRITICAL - 2024-10-05 15:34:20 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/user-avatar.png"
+[Method: GET, Route: pages/id/user-avatar.png]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/user-avatar.png')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/user-avatar.png', [], true)
+ 3 APPPATH\Controllers\Pages.php(17): view('pages/user-avatar.png')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->id('user-avatar.png')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\Website-Divisi-Kewirausahaan-HIMATEKKOM-\\public\\index.php')

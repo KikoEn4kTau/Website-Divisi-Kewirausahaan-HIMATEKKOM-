@@ -49,7 +49,6 @@ body {
   font-style: normal;
   font-weight: 400;
   line-height: 18px 100%;
-  /* color: var(--Neutral-Colors-Headings-Black, #000); */
   color: #5d5a88;
 }
 
@@ -81,6 +80,7 @@ body {
   gap: 10px;
 }
 
+/* Page Sections */
 .T1 {
   width: 574px;
   height: 147px;
@@ -90,24 +90,21 @@ body {
 
 .T1 h1 {
   color: var(--Neutral-Colors-Headings-Black, #5d5a88);
-  font-feature-settings: "liga" off, "clig" off;
   font-family: "DM Sans";
   font-size: 56px;
-  font-style: normal;
   font-weight: 700;
   line-height: 66px;
 }
 
 .T1 p {
   color: var(--Neutral-Colors-Headings-Black, #9795b5);
-  font-feature-settings: "liga" off, "clig" off;
   font-family: "DM Sans";
   font-size: 18px;
-  font-style: normal;
   font-weight: 400;
   line-height: 30px;
 }
 
+/* Image Section */
 .images {
   position: relative;
   width: 400px;
@@ -125,138 +122,7 @@ body {
   position: absolute;
 }
 
-.image:nth-child(1) {
-  top: -200px;
-  right: 100px;
-  z-index: 1;
-}
-
-.image:nth-child(2) {
-  top: -380px;
-  right: -250px;
-  z-index: 2;
-}
-
-.image:nth-child(3) {
-  top: 100px;
-  right: -400px;
-  z-index: 3;
-}
-
-.image img {
-  width: 60px;
-  height: 60px;
-  object-fit: contain;
-  border-radius: 50%;
-}
-
-.T2 {
-  width: 965px;
-  height: 223px;
-  margin-top: 300px;
-  margin-left: 490px;
-}
-
-.T2 h2 {
-  color: var(--Neutral-Colors-Headings-Black, #5d5a88);
-  font-feature-settings: "liga" off, "clig" off;
-  font-family: "DM Sans";
-  font-size: 56px;
-  font-weight: 700;
-  line-height: 66px;
-  text-align: center;
-}
-
-.T2 p {
-  margin-top: 105px;
-  color: var(--Neutral-Colors-Headings-Black, #9795b5);
-  font-feature-settings: "liga" off, "clig" off;
-  font-family: "Roboto";
-  font-size: 29.82px;
-  font-weight: 400;
-  line-height: 46px;
-  text-align: center;
-  background-color: #ffffff;
-  padding: 56px;
-  display: inline-block;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
-}
-
-.group46 {
-  display: flex;
-  justify-content: space-between;
-  margin-top: 400px;
-  font-family: "DM Sans";
-}
-
-.poin-poin {
-  width: 50%;
-}
-
-.poin {
-  display: flex;
-  align-items: center;
-  position: relative;
-  padding: 20px;
-  border: 1px solid #ddd;
-  border-radius: 10px;
-  background-color: #fff;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  margin-bottom: 100px;
-  margin-left: 30px;
-  width: 70%;
-}
-
-.poin2 {
-  display: flex;
-  align-items: center;
-  position: relative;
-  padding: 20px;
-  border: 1px solid #ddd;
-  border-radius: 10px;
-  background-color: #fff;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  margin-bottom: 100px;
-  margin-left: 300px;
-  width: 70%;
-}
-
-.circle {
-  position: absolute;
-  top: -30px;
-  left: -40px;
-  width: 60px;
-  height: 60px;
-  background-color: #f1f1f1;
-  border-radius: 50%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 24px;
-  font-weight: bold;
-  color: #007bff;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-.content {
-  margin-left: 40px;
-}
-
-.content h3 {
-  margin: 0;
-  font-size: 1.5em;
-  font-weight: bold;
-  color: #333;
-}
-
-.content p {
-  margin-top: 10px;
-  font-size: 1em;
-  color: #666;
-  line-height: 1.5;
-}
-
-/* Our Vision Section */
+/* Vision Section */
 .vision {
   width: 20%;
   height: 80%;
@@ -278,85 +144,15 @@ body {
   line-height: 1.5;
 }
 
+/* Footer Section */
 .footer {
   width: 1440px;
   height: 400px;
-  position: relative;
   background: white;
   border-top: 1px #b6b0b0 solid;
   margin-top: 164px;
 }
 
-/* Logo section */
-.logo-section {
-  left: 96px;
-  top: 48px;
-  position: absolute;
-  flex-direction: column;
-  justify-content: flex-start;
-  align-items: center;
-  gap: 24px;
-  display: inline-flex;
-}
-
-/* Logo and description */
-.logo-info {
-  flex-direction: column;
-  justify-content: flex-start;
-  align-items: flex-start;
-  gap: 24px;
-  display: flex;
-}
-
-.logo {
-  color: #5d5a88;
-  font-size: 18px;
-  font-family: Poppins;
-  font-weight: 400;
-  word-wrap: break-word;
-}
-
-.logo-description {
-  width: 189px;
-  color: rgba(30, 30, 30, 0.5);
-  font-size: 18px;
-  font-family: Poppins;
-  font-weight: 500;
-  word-wrap: break-word;
-}
-
-/* Social icons */
-.social-icons {
-  justify-content: flex-start;
-  align-items: center;
-  gap: 24px;
-  display: inline-flex;
-}
-
-.icon {
-  width: 48px;
-  height: 48px;
-  position: relative;
-}
-
-.icon-circle {
-  width: 48px;
-  height: 48px;
-  position: absolute;
-  border-radius: 9999px; /* Circular shape */
-  border: 1px rgba(30, 30, 30, 0.5) solid;
-  display: flex;
-  justify-content: center; /* Center content horizontally */
-  align-items: center; /* Center content vertically */
-}
-
-.icon-image {
-  width: 20px; /* Set appropriate width */
-  height: 20px; /* Set appropriate height */
-  object-fit: contain; /* Maintain aspect ratio */
-}
-
-/* Footer section */
 .footer-section {
   left: 892px;
   top: 48px;
@@ -367,40 +163,49 @@ body {
   display: inline-flex;
 }
 
-.footer-info {
-  flex-direction: column;
-  justify-content: flex-start;
-  align-items: left;
-  gap: 24px;
-  display: inline-flex;
+/* Additional Styles */
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
 
-.footer-title {
-  color: #5d5a88;
+.avatar {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #f2f2f2;
+}
+
+.post-actions .fa {
   font-size: 20px;
-  font-family: DM Sans;
-  font-weight: 700;
-  line-height: 20px;
-  word-wrap: break-word;
-  text-align: left;
+  cursor: pointer;
+  color: #555;
 }
 
-.footer-item {
-  color: rgba(30, 30, 30, 0.5);
-  font-size: 18px;
-  font-family: Poppins;
-  font-weight: 400;
-  word-wrap: break-word;
-  text-align: left;
+.post-actions .fa:hover {
+  color: #000;
 }
 
-.copyright {
-  left: 97px;
-  top: 325px;
-  position: absolute;
-  color: rgba(30, 30, 30, 0.5);
-  font-size: 18px;
-  font-family: Poppins;
-  font-weight: 500;
-  word-wrap: break-word;
+.submit-btn {
+  margin-top: 10px;
+  text-align: right;
 }
+
+.post-card {
+  margin-bottom: 1.5rem;
+  padding: 1.5rem;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+}
+
+.popular-tags {
+  background-color: #f1f1f1;
+  padding: 1rem;
+  border-radius: 8px;
+}
+

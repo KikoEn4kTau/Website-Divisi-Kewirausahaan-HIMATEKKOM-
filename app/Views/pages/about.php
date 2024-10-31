@@ -14,8 +14,8 @@
     <div class="header">
       <div class="headerbox">
         <div class="logo">
-          <img class="logopic" src="/asset/Group 5.1.png" />
-          <img class="logotext" src="/asset/LOGO.png" />
+          <img class="logopic" src="/asset/LOGOHIMATEKKOMm.png" />
+          <img class="logotext" src="/asset/HIMATEKKOM ITS.png" />
         </div>
         <div class="nav">
           <a href="index.html" class="active">Home</a>
@@ -28,29 +28,31 @@
       </div>
     </div>
     <div class="T1">
-      <h1>Himatekkom</h1>
+      <h1>
+        <span class="kwu-hima">KWU Hima</span><span class="tekkom">tekkom</span>
+      </h1>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipiscing eli mattis sit
-        phasellus mollis sit aliquam sit nullam neque ultrices
+        Fostering innovation and business skills through hands-on programs and
+        events.
       </p>
     </div>
     <div class="images">
       <div class="image">
-        <img src="/asset/Image icon.png" alt="Image 1" />
+        <img src="/asset/Image Placeholder (1).png" alt="Image 1" />
       </div>
       <div class="image">
-        <img src="/asset/Image icon.png" alt="Image 2" />
+        <img src="/asset/Image Placeholder.png" alt="Image 2" />
       </div>
       <div class="image">
-        <img src="/asset/Image icon.png" alt="Image 3" />
+        <img src="/asset/Image Placeholder (2).png" alt="Image 3" />
       </div>
     </div>
     <div class="T2">
-      <h2>OUR MISSION</h2>
+      <h2><span class="our">Our</span><span class="mission"> Mission</span></h2>
       <p>
-        “It is a long established fact that a reader will be distracted by the
-        readable content of a page when looking at its layout. It is a long
-        established fact that a reader will be distracted by the.”
+        “Our mission is to nurture entrepreneurial mindsets among students by
+        providing hands-on learning opportunities, fostering innovation, and
+        building a supportive community of future business leaders."
       </p>
     </div>
 
@@ -59,54 +61,55 @@
         <div class="poin">
           <div class="circle">1</div>
           <div class="content">
-            <h3>Professional Support</h3>
+            <h3>Empowering Innovation</h3>
             <p>
-              It is a long established fact that a reader will be distracted by
-              the readable content of a page when looking at its layout.
+              KWU HIMATEKKOM is dedicated to providing students with the tools
+              and resources they need to turn their innovative ideas into
+              successful ventures.
             </p>
           </div>
         </div>
 
         <div class="poin2">
-          <div class="circle">2</div>
+          <div class="circle2">2</div>
           <div class="content">
-            <h3>Awesome Design</h3>
+            <h3>Sustainable Growth</h3>
             <p>
-              It is a long established fact that a reader will be distracted by
-              the readable content of a page when looking at its layout.
+              We ensure that every student is equipped with the knowledge and
+              skills to build businesses that can thrive and make a lasting
+              impact.
             </p>
           </div>
         </div>
 
         <div class="poin">
-          <div class="circle">3</div>
+          <div class="circle3">3</div>
           <div class="content">
-            <h3>Planning & Executing</h3>
+            <h3>Collaboration & Mentorship</h3>
             <p>
-              It is a long established fact that a reader will be distracted by
-              the readable content of a page when looking at its layout.
+              We connect students with mentors, industry professionals, and
+              fellow entrepreneurs to create a supportive network that helps
+              them grow and succeed in their entrepreneurial journeys.
             </p>
           </div>
         </div>
       </div>
       <div class="vision">
-        <h2>Our Vision</h2>
+        <h2>
+          <span class="our2">Our</span><span class="visiontxt"> Vision</span>
+        </h2>
         <p>
-          It is a long established fact that a reader will be distracted by the
-          readable content of a page.
-        </p>
-        <p>
-          Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry. Lorem Ipsum has been the industry's standard dummy text ever
-          since the 1500s.
+          Vision: "We envision a future where every student has the opportunity
+          to bring their innovative ideas to life, contributing to a sustainable
+          and thriving business ecosystem."
         </p>
       </div>
     </div>
     <div class="footer">
       <div class="logo-section">
         <div class="logo-info">
-          <div class="logo">LOGO</div>
-          <div class="logo-description">lorem ipsum dolor sit amet sit</div>
+          <img class="logopic" src="/asset/LOGOHIMATEKKOMm.png" />
+          <img class="logotext" src="/asset/HIMATEKKOM ITS.png" />
         </div>
         <div class="social-icons">
           <div class="icon">

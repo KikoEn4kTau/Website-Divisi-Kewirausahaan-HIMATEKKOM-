@@ -68,7 +68,7 @@ body {
   align-items: center;
   gap: 8px;
   border-radius: 30px;
-  background: var(--Neutral-Colors-Headings-Black, #5d5a88);
+  background: var(--Neutral-Colors-Headings-Black, #3c8574);
   color: #ffffff;
   font-family: "DM Sans";
 }
@@ -81,6 +81,16 @@ body {
   gap: 10px;
 }
 
+.logopic {
+  width: 36px;
+  height: auto;
+}
+
+.logotext {
+  width: 193px;
+  height: auto;
+}
+
 .T1 {
   width: 574px;
   height: 147px;
@@ -89,7 +99,6 @@ body {
 }
 
 .T1 h1 {
-  color: var(--Neutral-Colors-Headings-Black, #5d5a88);
   font-feature-settings: "liga" off, "clig" off;
   font-family: "DM Sans";
   font-size: 56px;
@@ -98,8 +107,16 @@ body {
   line-height: 66px;
 }
 
+.kwu-hima {
+  color: black;
+}
+
+.tekkom {
+  color: #3c8574;
+}
+
 .T1 p {
-  color: var(--Neutral-Colors-Headings-Black, #9795b5);
+  color: var(--Neutral-Colors-Headings-Black, black);
   font-feature-settings: "liga" off, "clig" off;
   font-family: "DM Sans";
   font-size: 18px;
@@ -123,42 +140,47 @@ body {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   display: flex;
   position: absolute;
+  overflow: hidden; /* Ensures image fits within rounded corners */
 }
 
 .image:nth-child(1) {
   top: -200px;
-  right: 100px;
-  z-index: 1;
+  right: -80px;
+  z-index: 2;
 }
 
 .image:nth-child(2) {
   top: -380px;
-  right: -250px;
-  z-index: 2;
+  right: -380px;
+  z-index: 1;
 }
 
 .image:nth-child(3) {
   top: 100px;
-  right: -400px;
+  right: -500px;
   z-index: 3;
 }
 
 .image img {
-  width: 60px;
-  height: 60px;
-  object-fit: contain;
-  border-radius: 50%;
+  width: 100%; /* Make the image take the full width of the container */
+  height: 100%; /* Make the image take the full height of the container */
+  object-fit: cover; /* Ensures the image covers the container while keeping its aspect ratio */
+  border-radius: 0; /* Removes the circular border */
 }
 
 .T2 {
-  width: 965px;
-  height: 223px;
-  margin-top: 300px;
-  margin-left: 490px;
+  width: 85%; /* Make the width span the entire viewport */
+  height: 180px; /* Reduced height */
+  margin-top: 380px; /* Adjust as needed */
+  margin-left: -30px;
+  background-color: #e9f8f3;
+  padding: 180px; /* Adjusted padding */
+  border-radius: 15px;
+  position: relative; /* Positioning may help if you want to layer elements */
 }
 
 .T2 h2 {
-  color: var(--Neutral-Colors-Headings-Black, #5d5a88);
+  margin-top: -60px; /* Adjusted to fit better within the smaller background */
   font-feature-settings: "liga" off, "clig" off;
   font-family: "DM Sans";
   font-size: 56px;
@@ -168,18 +190,26 @@ body {
 }
 
 .T2 p {
-  margin-top: 105px;
-  color: var(--Neutral-Colors-Headings-Black, #9795b5);
+  margin-top: 20px; /* Adjusted to fit better within the smaller background */
+  color: var(--Neutral-Colors-Headings-Black, black);
   font-feature-settings: "liga" off, "clig" off;
   font-family: "Roboto";
   font-size: 29.82px;
   font-weight: 400;
   line-height: 46px;
   text-align: center;
-  background-color: #ffffff;
-  padding: 56px;
+  background-color: rgb(249, 255, 253);
+  padding: 40px;
   display: inline-block;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+  box-shadow: 12.98px 17.31px 43.27px 0px #1a906b33;
+}
+
+.our {
+  color: black;
+}
+
+.mission {
+  color: #3c8574;
 }
 
 .group46 {
@@ -198,7 +228,7 @@ body {
   align-items: center;
   position: relative;
   padding: 20px;
-  border: 1px solid #ddd;
+  border: 1px solid #5b9a8b;
   border-radius: 10px;
   background-color: #fff;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -212,7 +242,7 @@ body {
   align-items: center;
   position: relative;
   padding: 20px;
-  border: 1px solid #ddd;
+  border: 1px solid #5b9a8b;
   border-radius: 10px;
   background-color: #fff;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -227,15 +257,49 @@ body {
   left: -40px;
   width: 60px;
   height: 60px;
-  background-color: #f1f1f1;
+  background-color: #fff;
   border-radius: 50%;
   display: flex;
   justify-content: center;
   align-items: center;
   font-size: 24px;
   font-weight: bold;
-  color: #007bff;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  color: #3c8574;
+  box-shadow: 12.98px 17.31px 43.27px 0px rgba(26, 144, 107, 0.2);
+}
+
+.circle2 {
+  position: absolute;
+  top: -30px;
+  left: -40px;
+  width: 60px;
+  height: 60px;
+  background-color: #fff;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  font-weight: bold;
+  color: #3c8574;
+  box-shadow: 12.98px 17.31px 43.27px 0px rgba(26, 144, 107, 0.2);
+}
+
+.circle3 {
+  position: absolute;
+  top: -30px;
+  left: -40px;
+  width: 60px;
+  height: 60px;
+  background-color: #fff;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  font-weight: bold;
+  color: #3c8574;
+  box-shadow: 12.98px 17.31px 43.27px 0px rgba(26, 144, 107, 0.2);
 }
 
 .content {
@@ -246,13 +310,13 @@ body {
   margin: 0;
   font-size: 1.5em;
   font-weight: bold;
-  color: #333;
+  color: black;
 }
 
 .content p {
   margin-top: 10px;
   font-size: 1em;
-  color: #666;
+  color: black;
   line-height: 1.5;
 }
 
@@ -264,23 +328,29 @@ body {
   padding: 20px;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  margin-top: 100px;
+  margin-top: 180px;
   margin-left: -100px;
 }
 
 .vision h2 {
   font-size: 50px;
-  color: #4f4da3;
 }
 
 .vision p {
-  color: #666;
+  color: black;
   line-height: 1.5;
+}
+
+.our2 {
+  color: black;
+}
+.visiontxt {
+  color: #3c8574;
 }
 
 .footer {
   width: 1440px;
-  height: 400px;
+  height: 300px;
   position: relative;
   background: white;
   border-top: 1px #b6b0b0 solid;
@@ -301,7 +371,7 @@ body {
 
 /* Logo and description */
 .logo-info {
-  flex-direction: column;
+  flex-direction: row;
   justify-content: flex-start;
   align-items: flex-start;
   gap: 24px;
@@ -396,7 +466,7 @@ body {
 
 .copyright {
   left: 97px;
-  top: 325px;
+  top: 200px;
   position: absolute;
   color: rgba(30, 30, 30, 0.5);
   font-size: 18px;

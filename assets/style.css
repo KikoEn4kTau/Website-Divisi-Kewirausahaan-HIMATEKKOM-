@@ -3,9 +3,11 @@
   padding: 0;
   text-decoration: none;
 }
+
 html {
   overflow-x: hidden;
 }
+
 body {
   position: absolute;
   width: 100%;
@@ -24,6 +26,7 @@ body {
   background-color: #ffffff;
   z-index: 1000;
 }
+
 .headerbox {
   padding: 0 5%;
   display: flex;
@@ -49,7 +52,6 @@ body {
   font-style: normal;
   font-weight: 400;
   line-height: 18px 100%;
-  /* color: var(--Neutral-Colors-Headings-Black, #000); */
   color: #5d5a88;
 }
 
@@ -140,7 +142,7 @@ body {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   display: flex;
   position: absolute;
-  overflow: hidden; /* Ensures image fits within rounded corners */
+  overflow: hidden;
 }
 
 .image:nth-child(1) {
@@ -162,25 +164,25 @@ body {
 }
 
 .image img {
-  width: 100%; /* Make the image take the full width of the container */
-  height: 100%; /* Make the image take the full height of the container */
-  object-fit: cover; /* Ensures the image covers the container while keeping its aspect ratio */
-  border-radius: 0; /* Removes the circular border */
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 0;
 }
 
 .T2 {
-  width: 85%; /* Make the width span the entire viewport */
-  height: 180px; /* Reduced height */
-  margin-top: 380px; /* Adjust as needed */
+  width: 85%;
+  height: 180px;
+  margin-top: 380px;
   margin-left: -30px;
   background-color: #e9f8f3;
-  padding: 180px; /* Adjusted padding */
+  padding: 180px;
   border-radius: 15px;
-  position: relative; /* Positioning may help if you want to layer elements */
+  position: relative;
 }
 
 .T2 h2 {
-  margin-top: -60px; /* Adjusted to fit better within the smaller background */
+  margin-top: -60px;
   font-feature-settings: "liga" off, "clig" off;
   font-family: "DM Sans";
   font-size: 56px;
@@ -190,7 +192,7 @@ body {
 }
 
 .T2 p {
-  margin-top: 20px; /* Adjusted to fit better within the smaller background */
+  margin-top: 20px;
   color: var(--Neutral-Colors-Headings-Black, black);
   font-feature-settings: "liga" off, "clig" off;
   font-family: "Roboto";
@@ -320,7 +322,6 @@ body {
   line-height: 1.5;
 }
 
-/* Our Vision Section */
 .vision {
   width: 20%;
   height: 80%;
@@ -344,6 +345,7 @@ body {
 .our2 {
   color: black;
 }
+
 .visiontxt {
   color: #3c8574;
 }
@@ -357,7 +359,6 @@ body {
   margin-top: 164px;
 }
 
-/* Logo section */
 .logo-section {
   left: 96px;
   top: 48px;
@@ -369,7 +370,6 @@ body {
   display: inline-flex;
 }
 
-/* Logo and description */
 .logo-info {
   flex-direction: row;
   justify-content: flex-start;
@@ -379,7 +379,6 @@ body {
 }
 
 .logo {
-  color: #5d5a88;
   font-size: 18px;
   font-family: Poppins;
   font-weight: 400;
@@ -395,7 +394,6 @@ body {
   word-wrap: break-word;
 }
 
-/* Social icons */
 .social-icons {
   justify-content: flex-start;
   align-items: center;
@@ -413,20 +411,19 @@ body {
   width: 48px;
   height: 48px;
   position: absolute;
-  border-radius: 9999px; /* Circular shape */
-  border: 1px rgba(30, 30, 30, 0.5) solid;
+  border-radius: 9999px;
+  border: 1px #3c8574 solid;
   display: flex;
-  justify-content: center; /* Center content horizontally */
-  align-items: center; /* Center content vertically */
+  justify-content: center;
+  align-items: center;
 }
 
 .icon-image {
-  width: 20px; /* Set appropriate width */
-  height: 20px; /* Set appropriate height */
-  object-fit: contain; /* Maintain aspect ratio */
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
 }
 
-/* Footer section */
 .footer-section {
   left: 892px;
   top: 48px;
@@ -446,7 +443,7 @@ body {
 }
 
 .footer-title {
-  color: #5d5a88;
+  color: #3c8574;
   font-size: 20px;
   font-family: DM Sans;
   font-weight: 700;

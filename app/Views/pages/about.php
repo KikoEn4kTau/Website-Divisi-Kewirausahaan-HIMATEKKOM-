@@ -115,7 +115,7 @@
           <div class="icon">
             <div class="icon-circle">
               <img
-                src="/asset/gg_facebook.svg"
+                src="/asset/gg_facebook (1).svg"
                 alt="Facebook"
                 class="icon-image"
               />
@@ -124,7 +124,7 @@
           <div class="icon">
             <div class="icon-circle">
               <img
-                src="/asset/ri_instagram-fill.svg"
+                src="/asset/ri_instagram-fill (1).svg"
                 alt="Instagram"
                 class="icon-image"
               />
@@ -132,11 +132,7 @@
           </div>
           <div class="icon">
             <div class="icon-circle">
-              <img
-                src="/asset/Group 13.svg"
-                alt="Other Icon"
-                class="icon-image"
-              />
+              <img src="/asset/Vector.svg" alt="Twitter" class="icon-image" />
             </div>
           </div>
         </div>
